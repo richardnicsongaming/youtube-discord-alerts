@@ -1,0 +1,12 @@
+{
+  "channels": [
+    {
+      "id": "YOUR_CHANNEL_ID",
+      "group": "hindi"
+    },
+    {
+      "id": "YOUR_SECOND_CHANNEL_ID",
+      "group": "english"
+    }
+  ]
+}
